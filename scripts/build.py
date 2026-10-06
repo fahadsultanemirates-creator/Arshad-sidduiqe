@@ -22,7 +22,7 @@ OUT = ROOT / "public"
 # ---------------------------------------------------------------- settings
 # Set SITE_URL to the production domain before deploying (used for canonical
 # URLs, Open Graph, structured data and sitemap.xml).
-SITE_URL = os.environ.get("SITE_URL", "https://YOUR-DOMAIN.com").rstrip("/")
+SITE_URL = os.environ.get("SITE_URL", "https://arshad-siddique-bitget.netlify.app").rstrip("/")
 
 REG_URL = "https://partner.bitget.site/bg/ZGRSVM"
 REG_LABEL = "partner.bitget.site/bg/ZGRSVM"
